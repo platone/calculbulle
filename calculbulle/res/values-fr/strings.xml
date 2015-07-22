@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculBulle</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="new_game">Nouvelle partie</string>
+    <string name="new_game_withoutanimation">Nouvelle partie NA</string>
+
+</resources>

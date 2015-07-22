@@ -1,0 +1,10 @@
+<resources>
+
+    <!--  string name="CAMERA_WIDTH2">480</string>
+    <string name="CAMERA_HEIGHT2">720</string>
+    <string name="CAMERA_WIDTH">768</string>
+    <string name="CAMERA_HEIGHT">1024</string -->
+    <string name="DEFAULT_RANDOM_MATRIC_MEDIAN_VALUE">0.66</string>
+    <string name="DEFAULT_RANDOM_MATRIC_MAX_VALUE">32</string>
+
+</resources>

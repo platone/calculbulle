@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="darkgrey">#333333</color>
+    <color name="mediumgrey">#777777</color>
+    <color name="lightgrey">#AAAAAA</color>
+    <color name="filetext">#CC99CC</color>
+    <color name="filetextdark">#6F228E</color>
+    <color name="shadow">#22CCCCCC</color>
+    <color name="darkshadow">#55333333</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparentbutton">#47000000</color>
+    <color name="purple">#8815BA</color>
+    <color name="beige">#e3d9b7</color>
+    <color name="popup">#B9DC23</color>
+    <color name="transparentpurple">#BF6F2290</color>
+    <color name="darkgreen">#4D7100</color>
+    <color name="lightgreen">#C3DE83</color>
+    <color name="greennatpad">#77A509</color>
+    <color name="brown">#4c2e2590</color>
+    
+</resources>
